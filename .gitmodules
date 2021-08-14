@@ -1,0 +1,4 @@
+[submodule "master/public"]
+	path = master/public
+	url = https://github.com/bugdiaries/bugdiaries.github.io.git
+	branch = main
